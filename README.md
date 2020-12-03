@@ -1,4 +1,4 @@
-# Magento 2 Module - Redirect to Home page after login
+# Magento 2 Module - Redirect to Home Page after Login
 Using this Magento 2 extension, you will redirect to home page after customer login.
 
 
